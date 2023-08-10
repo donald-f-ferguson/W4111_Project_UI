@@ -121,7 +121,6 @@
       }
     }
   },
-  "defaultProject": "class-ui",
   "cli": {
     "analytics": false
   }
